@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Orkhan Mehbaliyev, an enthusiastic Computer Engineering student. I have experience in web development and game development. I can write code in C,C++,C#,Python, JavaScript, etc. Nowadays, I am mainly focusing on Mobile development with Flutter.
+### I am Orkhan Mehbaliyev, an enthusiastic Computer Engineering student. I have experience in web development and game development. I can write code in C,C++,C#,Python, JavaScript, etc. Nowadays, I am mainly focusing on Mobile development with Flutter.
 
 <!--
 **orkhanmehbaliyevv/orkhanmehbaliyevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
